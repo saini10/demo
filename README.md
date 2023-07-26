@@ -1,3 +1,3 @@
-#DEMO for git
+# Demo
 
 This is demo for git & github
